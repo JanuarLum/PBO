@@ -27,10 +27,10 @@ class Mahasiswa implements TugasMahasiswa {
 
 public class Interface {
     public static void main(String[] args) {
-        Mahasiswa Anto = new Mahasiswa();
+        Mahasiswa Iky = new Mahasiswa();
 
-        Anto.Kuliah();
-        Anto.BelajarMandiri();
-        Anto.MengembangkanDiri();
+        Iky.Kuliah();
+        Iky.BelajarMandiri();
+        Iky.MengembangkanDiri();
     }
 }
